@@ -1,5 +1,5 @@
 {
   "compilerOptions": {
-    "baseUrl": "src"
+    "baseUrl": "git@github.com:thiruvengadam28/myinsight.git"
   }
 }
